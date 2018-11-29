@@ -6,7 +6,7 @@ categories:
 tags: 机器学习
 ---
 - tf.one_hot() 返回n维的独热张量
-```
+```python
 import tensorflow as tf
 tf.one_hot(indices, depth, on_value, off_value, axis)
 输入值：
